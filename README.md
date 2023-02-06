@@ -15,4 +15,4 @@ Recently, Image Processing Techniques are widely used in several medical areas f
 | 1.      | M Jietthesh Balaji       | CB.EN.U4CSE20322   |
 | 2.   | Raj Mota       | CB.EN.U4CSE20349      |
 | 3.      | Sai Sidharth Sriram       | CB.EN.U4CSE20352   |
-| 4.   | Sakthi VikKraman R        | CB.EN.U4CSE20353      |
+| 4.   | Sakthi Vikkraman R        | CB.EN.U4CSE20353      |
